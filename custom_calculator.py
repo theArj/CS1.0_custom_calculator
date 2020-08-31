@@ -9,3 +9,8 @@
 # Alternatively, write a program that gives 4 choices of artists numbered 1 - 4, and
 # assign a guitar to each artist. Based on the artist choice by entering the respective
 # number, the result will be the appropriate guitar.
+
+# Scenario: You love music and have dreams of being a rockstar! But you don't know where to start.
+# Enter, the Custom Guitar Calculator! Simply, you are given several choices of world famous
+# guitar players in different genres to choose your favorite. Based on your favorite choice, the
+# Custom Guitar Calculator will provide you with the perfect options for you.
