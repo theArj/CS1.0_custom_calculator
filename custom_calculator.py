@@ -23,3 +23,17 @@
 #       2. Brad Paisley/Keith Urban: Fender Telecaster
 #       3. Led Zeppelin/Guns N' Roses: Gibson Les Paul
 #       4. Kirk Hammett/Joe Satriani: ESP or Ibanez
+
+# Rubric: Input - Prompt the user to enter at least two numeric values that will be used in the calculation.
+
+# Perhaps, assign a number to a genre and assign a number to an artist from that genre.
+# Here are some genre and choices within those genres as examples:
+#       1. Rock/Blues
+#           1. Eric Clapton: Fender Stratocaster
+#           2. Jimi Page: Gibson Les Paul
+#       2. Country
+#           1. Keith Urban: Fender Telecaster
+#           2. Brad Paisley: Fender Telecaster
+#       3. Jazz
+#           1. Les Paul: Gibson Les Paul
+#           2. Wes Montgomery: Gibson L5-CES
