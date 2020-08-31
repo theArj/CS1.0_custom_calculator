@@ -14,3 +14,12 @@
 # Enter, the Custom Guitar Calculator! Simply, you are given several choices of world famous
 # guitar players in different genres to choose your favorite. Based on your favorite choice, the
 # Custom Guitar Calculator will provide you with the perfect options for you.
+
+# <--- Include an print statement welcoming the user to the Custom Guitar Calculator and asking for their name. --->
+
+# <--- Upon user entering their name, greet them with a friendly greeting using the username, then ask
+#   the user to choose from the list of 4 options printed on the screen:
+#       1. Eric Clapton/Jimi Hendrix: Fender Stratocaster
+#       2. Brad Paisley/Keith Urban: Fender Telecaster
+#       3. Led Zeppelin/Guns N' Roses: Gibson Les Paul
+#       4. Kirk Hammett/Joe Satriani: ESP or Ibanez
