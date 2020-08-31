@@ -37,3 +37,9 @@
 #       3. Jazz
 #           1. Les Paul: Gibson Les Paul
 #           2. Wes Montgomery: Gibson L5-CES
+
+# Because two numerical values are needed, a second alternative idea is to calculate the monthly payments for
+# a product based on their budget and the number of monthly payments they'd like to make at 0% interest to
+# pay it off.
+
+
